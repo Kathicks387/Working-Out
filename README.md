@@ -3,3 +3,5 @@
 
 
 Use this Working-Out App to record your work out sessions!  This app was created using Nodejs, Javascript and Mongdb.
+
+This app can be found at https://working-out-now.herokuapp.com/
